@@ -6,6 +6,8 @@ description: >
 ---
 # Manuscript Review Mini
 
+Research Workflow Skills · 03 · Review. See the repository README for the four-stage series and installation.
+
 对完整初稿进行科学审查与最小必要修订，交付 reviewed Markdown 和 PUBLICATION_HANDOFF。先科学，再结构，再语言；不是重写一篇新论文。
 
 ## 开始与恢复
