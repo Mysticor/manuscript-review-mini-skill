@@ -1,0 +1,1 @@
+MOCK acceptance read-through: compared every claim with the synthetic source. Confirmed calculation, scope, Methods/Results alignment, citations, captions, decisive evidence placement and consistent terminology. No real scientific validity or publication readiness is asserted.

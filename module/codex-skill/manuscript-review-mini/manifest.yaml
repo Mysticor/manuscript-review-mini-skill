@@ -1,0 +1,106 @@
+name: manuscript-review-mini
+version: 1.0.0
+always_load:
+- references/workflow.md
+phase_routes:
+  '0':
+  - references/review-intake.md
+  '1':
+  - references/claim-evidence-audit.md
+  - references/figure-table-audit.md
+  '2':
+  - references/reviewer-orchestration.md
+  - references/reviewer-personas.md
+  '3':
+  - references/comment-triage.md
+  - references/revision-routing.md
+  - references/user-decision-gates.md
+  '4':
+  - references/revision-policy.md
+  - references/methods-experiment-audit.md
+  '5':
+  - references/polishing-policy.md
+  - references/fact-lock.md
+  '6':
+  - references/round2-review.md
+  - references/reviewer-orchestration.md
+  '7':
+  - references/claim-evidence-audit.md
+  - references/methods-experiment-audit.md
+  - references/statistics-audit.md
+  - references/citation-audit.md
+  - references/figure-table-audit.md
+  '8':
+  - references/consistency-qa.md
+  - references/readiness-gate.md
+  '9':
+  - references/handoff-contract.md
+paper_types:
+  original-research: references/study-types/original-research.md
+  ml-ai: references/study-types/ml-ai.md
+  experimental: references/study-types/experimental.md
+  simulation: references/study-types/simulation.md
+  observational: references/study-types/observational.md
+  review: references/study-types/review.md
+  systematic-review: references/study-types/systematic-review.md
+  mixed: references/study-types/mixed.md
+  methods: references/study-types/methods.md
+  engineering: references/study-types/engineering.md
+  perspective: references/study-types/perspective.md
+allowed_specialists:
+- nature-reviewer
+- nature-polishing
+- nature-statistics
+- nature-ref-verifier
+- nature-reader
+- nature-academic-search
+- nature-figure
+- nature-writing
+- manuscript-writing
+- research-planning
+- research-planning-mini
+- manuscript-writing-mini
+forbidden_specialists:
+- latex-document-skill
+- academic-typesetting
+- publication-build
+triage_fields:
+- comment_id
+- reviewer
+- section
+- issue
+- severity
+- confidence
+- decision
+- decision_reason
+- evidence_pointer
+- required_action
+- routing
+- affected_assets
+- author_decision_needed
+- status
+- resolution_record
+scripts:
+- scripts/reviewctl.py
+- scripts/routes.py
+templates:
+- templates/publication_handoff.md
+- templates/claim_evidence_audit.md
+- templates/state.json
+- templates/reviewer_report.md
+- templates/consistency_audit.md
+- templates/triage.csv
+- templates/numeric_occurrences.csv
+- templates/reviewer_consensus.md
+- templates/readiness_checklist.md
+- templates/figure_table_audit.md
+- templates/citation_audit.md
+- templates/revision_log.md
+- templates/revision_plan.md
+- templates/baseline_audit.md
+- templates/combined_audit.md
+project_coordination:
+  contract_version: '1.1'
+  actor: manuscript_review
+  helper: scripts/projectctl.py
+  shared_contract: ../../../workflow-contract/README.md

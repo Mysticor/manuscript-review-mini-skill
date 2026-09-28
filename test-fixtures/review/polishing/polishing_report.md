@@ -1,0 +1,1 @@
+MOCK prose polish after scientific revision. Applied nature-polishing research/en/generic, discussion guidance and shared consistency/main-text discipline. One sentence clarified; no structural rearrangement, added claims or changed quantitative facts. All other paragraphs retained.

@@ -1,0 +1,13 @@
+[
+  {
+    "comment_id": "R1-C-M1",
+    "reviewer": "C",
+    "section": "Conclusion, final sentence",
+    "issue": "The final sentence asserts universal workflow reliability for all research datasets, exceeding the single synthetic example and contradicting the abstract, Results and Discussion limitations.",
+    "severity": "MAJOR",
+    "confidence": "high",
+    "claim_pointer": "manuscript.md, Conclusion, final sentence: This demonstrates that the workflow is universally reliable for all research datasets.",
+    "evidence_pointer": "manuscript.md, Abstract final sentence, Methods first sentence, Results third sentence, and Discussion third sentence; inputs/handoff/03_claim_registry.yaml, C01 boundary_conditions and forbidden_overclaim; claim_evidence_map.csv, C01 boundary.",
+    "resolution_test": "Remove or narrow the universal claim to the supplied synthetic example. Confirm that abstract, results, discussion and conclusion consistently claim only verification of this fixed input list, without implied reliability or generalizability beyond it."
+  }
+]

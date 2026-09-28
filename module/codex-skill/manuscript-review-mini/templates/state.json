@@ -1,0 +1,25 @@
+{
+  "project": "",
+  "paper_type": "original-research",
+  "target_journal": "generic",
+  "current_phase": 0,
+  "input_manuscript_version": "stage2",
+  "current_manuscript_version": "v1_stage2",
+  "review_round": 0,
+  "open_blockers": [],
+  "major_concerns": [],
+  "author_decisions": [],
+  "requires_new_evidence": false,
+  "polishing_status": "NOT_STARTED",
+  "citation_audit_status": "NOT_STARTED",
+  "figure_table_audit_status": "NOT_STARTED",
+  "consistency_status": "NOT_STARTED",
+  "review_readiness": "REVIEW_IN_PROGRESS",
+  "last_updated": null,
+  "test_only": false,
+  "rounds": {},
+  "audit_records": {},
+  "next_actions": [
+    "Complete baseline audit"
+  ]
+}

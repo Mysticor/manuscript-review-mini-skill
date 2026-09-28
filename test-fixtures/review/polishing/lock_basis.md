@@ -1,0 +1,1 @@
+MOCK fact lock. Retain fixed inputs 1,2,3, arithmetic mean 2, no inference, no population/sample experiment, Figure 1 conceptual transformation and Table 1 exact inputs. C01 applies only to the supplied list. No universal reliability, causality or new citation is permitted.

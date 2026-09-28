@@ -1,0 +1,103 @@
+{
+  "status": "AVAILABLE",
+  "items": [
+    {
+      "item": "README.md",
+      "status": "AVAILABLE"
+    },
+    {
+      "item": "readiness.json",
+      "status": "AVAILABLE"
+    },
+    {
+      "item": "01_target_journal_profile.md",
+      "status": "AVAILABLE"
+    },
+    {
+      "item": "02_research_story_facts.md",
+      "status": "AVAILABLE"
+    },
+    {
+      "item": "03_claim_registry.yaml",
+      "status": "AVAILABLE"
+    },
+    {
+      "item": "04_results_facts.csv",
+      "status": "AVAILABLE"
+    },
+    {
+      "item": "05_methods_fact_sheet.yaml",
+      "status": "AVAILABLE"
+    },
+    {
+      "item": "06_data_fact_sheet.yaml",
+      "status": "AVAILABLE"
+    },
+    {
+      "item": "07_statistics_fact_sheet.yaml",
+      "status": "AVAILABLE"
+    },
+    {
+      "item": "08_literature_canon.md",
+      "status": "AVAILABLE"
+    },
+    {
+      "item": "09_claim_reference_map.csv",
+      "status": "AVAILABLE"
+    },
+    {
+      "item": "10_key_paper_exemplars.md",
+      "status": "AVAILABLE"
+    },
+    {
+      "item": "references.bib",
+      "status": "AVAILABLE"
+    },
+    {
+      "item": "11_asset_inventory.csv",
+      "status": "AVAILABLE"
+    },
+    {
+      "item": "12_table_ready_data_inventory.md",
+      "status": "AVAILABLE"
+    },
+    {
+      "item": "13_supplementary_evidence_candidates.md",
+      "status": "AVAILABLE"
+    },
+    {
+      "item": "14_limitations_boundary_conditions.md",
+      "status": "AVAILABLE"
+    },
+    {
+      "item": "15_terminology_ledger.yaml",
+      "status": "AVAILABLE"
+    },
+    {
+      "item": "16_ethics_data_code_availability.md",
+      "status": "AVAILABLE"
+    },
+    {
+      "item": "17_unresolved_items.md",
+      "status": "AVAILABLE"
+    },
+    {
+      "item": "18_author_input_needed.md",
+      "status": "AVAILABLE"
+    },
+    {
+      "item": "literature_visual_inventory.csv",
+      "status": "MISSING_BUT_NONBLOCKING"
+    },
+    {
+      "item": "literature_table_inventory.csv",
+      "status": "MISSING_BUT_NONBLOCKING"
+    },
+    {
+      "item": "literature_formula_inventory.csv",
+      "status": "MISSING_BUT_NONBLOCKING"
+    }
+  ],
+  "blockers": [],
+  "checked_at": "2026-09-10T08:33:12.823756+00:00"
+}

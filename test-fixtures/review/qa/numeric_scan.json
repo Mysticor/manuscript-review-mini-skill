@@ -1,0 +1,767 @@
+[
+  {
+    "path": "claim_evidence_map.csv",
+    "token": "2",
+    "offset": 204
+  },
+  {
+    "path": "claim_evidence_map.csv",
+    "token": "1",
+    "offset": 373
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "2000",
+    "offset": 30
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "640",
+    "offset": 47
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "160",
+    "offset": 60
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "640",
+    "offset": 78
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "160",
+    "offset": 91
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "18416",
+    "offset": 134
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "2",
+    "offset": 156
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "20",
+    "offset": 168
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "50",
+    "offset": 175
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "230",
+    "offset": 186
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "60",
+    "offset": 199
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "390",
+    "offset": 213
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "50",
+    "offset": 221
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "230",
+    "offset": 232
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "60",
+    "offset": 245
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "80",
+    "offset": 264
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "12",
+    "offset": 272
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "7",
+    "offset": 275
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "12",
+    "offset": 277
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "7",
+    "offset": 280
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "12",
+    "offset": 282
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "7",
+    "offset": 285
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "16",
+    "offset": 332
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "18416",
+    "offset": 343
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "40",
+    "offset": 360
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "85",
+    "offset": 367
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "410",
+    "offset": 406
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "85",
+    "offset": 414
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "20",
+    "offset": 447
+  },
+  {
+    "path": "figures/final/Figure_01.svg",
+    "token": "25",
+    "offset": 454
+  },
+  {
+    "path": "figures/final/Figure_01_caption.md",
+    "token": "1",
+    "offset": 7
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "2000",
+    "offset": 30
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "640",
+    "offset": 47
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "160",
+    "offset": 60
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "640",
+    "offset": 78
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "160",
+    "offset": 91
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "18416",
+    "offset": 134
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "2",
+    "offset": 156
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "20",
+    "offset": 168
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "50",
+    "offset": 175
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "230",
+    "offset": 186
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "60",
+    "offset": 199
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "390",
+    "offset": 213
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "50",
+    "offset": 221
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "230",
+    "offset": 232
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "60",
+    "offset": 245
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "80",
+    "offset": 264
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "12",
+    "offset": 272
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "7",
+    "offset": 275
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "12",
+    "offset": 277
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "7",
+    "offset": 280
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "12",
+    "offset": 282
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "7",
+    "offset": 285
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "16",
+    "offset": 332
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "18416",
+    "offset": 343
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "40",
+    "offset": 360
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "85",
+    "offset": 367
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "410",
+    "offset": 406
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "85",
+    "offset": 414
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "20",
+    "offset": 447
+  },
+  {
+    "path": "figures/source/mock.svg",
+    "token": "25",
+    "offset": 454
+  },
+  {
+    "path": "manuscript_asset_manifest.csv",
+    "token": "1",
+    "offset": 228
+  },
+  {
+    "path": "manuscript_asset_manifest.csv",
+    "token": "126",
+    "offset": 464
+  },
+  {
+    "path": "manuscript_asset_manifest.csv",
+    "token": "1",
+    "offset": 607
+  },
+  {
+    "path": "manuscript_blueprint/00_intake_audit.md",
+    "token": "1",
+    "offset": 85
+  },
+  {
+    "path": "manuscript_blueprint/00_intake_audit.md",
+    "token": "2",
+    "offset": 88
+  },
+  {
+    "path": "manuscript_blueprint/00_intake_audit.md",
+    "token": "3",
+    "offset": 91
+  },
+  {
+    "path": "manuscript_blueprint/00_intake_audit.md",
+    "token": "2",
+    "offset": 126
+  },
+  {
+    "path": "manuscript_blueprint/02_claim_evidence_map.md",
+    "token": "2",
+    "offset": 99
+  },
+  {
+    "path": "manuscript_blueprint/03_section_plan.md",
+    "token": "1",
+    "offset": 230
+  },
+  {
+    "path": "manuscript_blueprint/03_section_plan.md",
+    "token": "1",
+    "offset": 240
+  },
+  {
+    "path": "manuscript_blueprint/04_figure_plan.md",
+    "token": "1",
+    "offset": 45
+  },
+  {
+    "path": "manuscript_blueprint/05_table_plan.md",
+    "token": "1",
+    "offset": 43
+  },
+  {
+    "path": "manuscript_blueprint/05_table_plan.md",
+    "token": "1",
+    "offset": 155
+  },
+  {
+    "path": "manuscript_blueprint/08_supplementary_plan.md",
+    "token": "1",
+    "offset": 137
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "4",
+    "offset": 81
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "2026",
+    "offset": 182
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "09",
+    "offset": 187
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "10",
+    "offset": 190
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "31",
+    "offset": 196
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "07.419298",
+    "offset": 199
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "00",
+    "offset": 209
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "00",
+    "offset": 212
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "2026",
+    "offset": 474
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "09",
+    "offset": 479
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "10",
+    "offset": 482
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "31",
+    "offset": 488
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "07.422657",
+    "offset": 491
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "00",
+    "offset": 501
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "00",
+    "offset": 504
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "53",
+    "offset": 665
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "2026",
+    "offset": 766
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "09",
+    "offset": 771
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "10",
+    "offset": 774
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "31",
+    "offset": 780
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "07.425669",
+    "offset": 783
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "00",
+    "offset": 793
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "00",
+    "offset": 796
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "2026",
+    "offset": 1058
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "09",
+    "offset": 1063
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "10",
+    "offset": 1066
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "31",
+    "offset": 1072
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "07.444886",
+    "offset": 1075
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "00",
+    "offset": 1085
+  },
+  {
+    "path": "manuscript_blueprint/decision_log.md",
+    "token": "00",
+    "offset": 1088
+  },
+  {
+    "path": "numeric_trace.csv",
+    "token": "2",
+    "offset": 59
+  },
+  {
+    "path": "numeric_trace.csv",
+    "token": "2",
+    "offset": 85
+  },
+  {
+    "path": "reviewed_manuscript.md",
+    "token": "1",
+    "offset": 781
+  },
+  {
+    "path": "reviewed_manuscript.md",
+    "token": "2",
+    "offset": 784
+  },
+  {
+    "path": "reviewed_manuscript.md",
+    "token": "3",
+    "offset": 790
+  },
+  {
+    "path": "reviewed_manuscript.md",
+    "token": "1",
+    "offset": 982
+  },
+  {
+    "path": "reviewed_manuscript.md",
+    "token": "2",
+    "offset": 1152
+  },
+  {
+    "path": "reviewed_manuscript.md",
+    "token": "1",
+    "offset": 1275
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 344
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 354
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 554
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 562
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 880
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 890
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 1094
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 1102
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 1415
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 1425
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 1624
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 1632
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 1945
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 1955
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 2154
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 2162
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 2478
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 2488
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 2690
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 2698
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 3014
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 3024
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 3226
+  },
+  {
+    "path": "section_registry.csv",
+    "token": "1",
+    "offset": 3234
+  },
+  {
+    "path": "source_verification/mock_aggregate.md",
+    "token": "1",
+    "offset": 52
+  },
+  {
+    "path": "source_verification/mock_aggregate.md",
+    "token": "1",
+    "offset": 62
+  },
+  {
+    "path": "source_verification/mock_original.md",
+    "token": "1",
+    "offset": 52
+  },
+  {
+    "path": "source_verification/mock_original.md",
+    "token": "1",
+    "offset": 62
+  },
+  {
+    "path": "tables/final/Table_01.md",
+    "token": "1",
+    "offset": 52
+  },
+  {
+    "path": "tables/final/Table_01.md",
+    "token": "1",
+    "offset": 56
+  },
+  {
+    "path": "tables/final/Table_01.md",
+    "token": "2",
+    "offset": 62
+  },
+  {
+    "path": "tables/final/Table_01.md",
+    "token": "2",
+    "offset": 66
+  },
+  {
+    "path": "tables/final/Table_01.md",
+    "token": "3",
+    "offset": 72
+  },
+  {
+    "path": "tables/final/Table_01.md",
+    "token": "3",
+    "offset": 76
+  },
+  {
+    "path": "tables/final/Table_01_caption.md",
+    "token": "1",
+    "offset": 6
+  },
+  {
+    "path": "tables/source/mock.csv",
+    "token": "1",
+    "offset": 6
+  },
+  {
+    "path": "tables/source/mock.csv",
+    "token": "2",
+    "offset": 8
+  },
+  {
+    "path": "tables/source/mock.csv",
+    "token": "3",
+    "offset": 10
+  }
+]

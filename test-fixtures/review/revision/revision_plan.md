@@ -1,0 +1,1 @@
+MOCK plan. Accept the three linked major comments as one shared concern. Replace only the final universal-reliability sentence with the boundary licensed by C01/R01. Keep the valid arithmetic result, Methods, main evidence and figures unchanged. No additional observations are required for the bounded claim.

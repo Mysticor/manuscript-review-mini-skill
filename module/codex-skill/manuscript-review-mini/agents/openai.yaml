@@ -1,0 +1,8 @@
+interface:
+  display_name: "Manuscript Review Mini"
+  short_description: "两位独立审稿、统一问题台账与按风险复审，保留证据核验和出版交接"
+  icon_small: "./assets/review-mini.svg"
+  icon_large: "./assets/review-mini.svg"
+  default_prompt: "用 $manuscript-review-mini 审查当前完整初稿，先报告主要问题和修改范围，再做最小修订及必要复核。"
+policy:
+  allow_implicit_invocation: true

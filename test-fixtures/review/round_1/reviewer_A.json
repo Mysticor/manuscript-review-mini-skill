@@ -1,0 +1,13 @@
+[
+  {
+    "comment_id": "R1-A-M1",
+    "reviewer": "A",
+    "section": "Conclusion",
+    "issue": "The universal reliability assertion exceeds a single synthetic arithmetic example and contradicts the stated fixture-only boundary. The bounded C01 result remains supported.",
+    "severity": "MAJOR",
+    "confidence": "high",
+    "claim_pointer": "manuscript.md, Conclusion, final sentence: This demonstrates that the workflow is universally reliable for all research datasets.",
+    "evidence_pointer": "manuscript.md, Methods (synthetic values 1, 2 and 3), Results (C01 limited to supplied list), Discussion (no support for empirical performance, robustness or generalizability); claim_evidence_map.csv, C01 (Synthetic fixture only; No field consensus or generalization); inputs/handoff/code/mock_analysis.py (single hard-coded list and arithmetic operation).",
+    "resolution_test": "Remove or narrow the universal assertion to the supplied synthetic list and calculation; verify consistent scope across Conclusion, Abstract, Discussion and C01."
+  }
+]

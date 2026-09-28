@@ -1,0 +1,180 @@
+{
+  "project": "validation",
+  "paper_type": "original-research",
+  "target_journal": "generic",
+  "current_phase": 9,
+  "input_manuscript_version": "stage2",
+  "current_manuscript_version": "manuscript_v3_polished",
+  "review_round": 2,
+  "open_blockers": [],
+  "major_concerns": [],
+  "author_decisions": [
+    {
+      "gate": "A",
+      "record": "decisions/MOCK-A.md",
+      "hash": "9ed5bc883630c80251652526ba532568f2c73637de0811ef2a950df24d29663d",
+      "fingerprint": "2cd6a955f8dca95e6f5e775746dfbdc0e2ffa7bed07060262e54bfe45422003d",
+      "accept_minor": false,
+      "at": "2026-09-10T08:49:59.203174+00:00"
+    },
+    {
+      "gate": "C",
+      "record": "decisions/MOCK-C.md",
+      "hash": "3390f161af1030d7c234929186993e642a7cefcd53ae6a5aad094fbf4e642321",
+      "fingerprint": "29e1a9d87b030166ac2c05e3f4e489086702468330921f84320f2803e1fa2039",
+      "accept_minor": false,
+      "issue_hash": "1ce3c7d2bddbef9aa3f27352deed4e0de479423d76c27d9e4438657ffc93b64c",
+      "at": "2026-09-10T08:52:24.712414+00:00"
+    },
+    {
+      "gate": "D",
+      "record": "decisions/MOCK-D.md",
+      "hash": "0930dd683f85c3d671a2661e607a139a56e0153ae723affed918d9901171672c",
+      "fingerprint": "29e1a9d87b030166ac2c05e3f4e489086702468330921f84320f2803e1fa2039",
+      "accept_minor": false,
+      "issue_hash": "1ce3c7d2bddbef9aa3f27352deed4e0de479423d76c27d9e4438657ffc93b64c",
+      "at": "2026-09-10T08:52:24.718291+00:00"
+    },
+    {
+      "gate": "C",
+      "record": "decisions/MOCK-C.md",
+      "hash": "3390f161af1030d7c234929186993e642a7cefcd53ae6a5aad094fbf4e642321",
+      "fingerprint": "29e1a9d87b030166ac2c05e3f4e489086702468330921f84320f2803e1fa2039",
+      "accept_minor": false,
+      "issue_hash": "4909b8a6e629d39940bb7603727319eee65a26328fbea007c65d0d317af8964f",
+      "at": "2026-09-10T08:56:03.349011+00:00"
+    },
+    {
+      "gate": "D",
+      "record": "decisions/MOCK-D.md",
+      "hash": "0930dd683f85c3d671a2661e607a139a56e0153ae723affed918d9901171672c",
+      "fingerprint": "29e1a9d87b030166ac2c05e3f4e489086702468330921f84320f2803e1fa2039",
+      "accept_minor": false,
+      "issue_hash": "4909b8a6e629d39940bb7603727319eee65a26328fbea007c65d0d317af8964f",
+      "at": "2026-09-10T08:56:03.354536+00:00"
+    }
+  ],
+  "requires_new_evidence": false,
+  "polishing_status": "COMPLETE",
+  "citation_audit_status": "NOT_STARTED",
+  "figure_table_audit_status": "NOT_STARTED",
+  "consistency_status": "NOT_STARTED",
+  "review_readiness": "REVIEWED_MANUSCRIPT_READY",
+  "last_updated": "2026-09-10T08:56:03.475691+00:00",
+  "test_only": true,
+  "rounds": {
+    "1": {
+      "content_fingerprint": "2cd6a955f8dca95e6f5e775746dfbdc0e2ffa7bed07060262e54bfe45422003d",
+      "packet_hash": "6c090507e34116c71e839d1ef9668a8270bca88f3c135a1ad731ce720356b437",
+      "reviewers": {
+        "A": {
+          "context_id": "/root/review_round1_a",
+          "report_hash": "ad740b527c1f32cb7f7a968210dde9830a0ec43c8963fdf4cdfc9e2298c4ea2c",
+          "comments_hash": "ee7f545928d00d1ec9b2af42788f205c580b9086ad9691433e467cd9e57bbbf5",
+          "packet_hash": "6c090507e34116c71e839d1ef9668a8270bca88f3c135a1ad731ce720356b437"
+        },
+        "B": {
+          "context_id": "/root/review_round1_b",
+          "report_hash": "833d5f6106f4751bdd26a5c267fbce0d875833de948efba401aeca176bf2090a",
+          "comments_hash": "78eeb57fee1dc1b84dc316741f95aa8f4599caef28fa50d16b72d04d288fd60b",
+          "packet_hash": "6c090507e34116c71e839d1ef9668a8270bca88f3c135a1ad731ce720356b437"
+        },
+        "C": {
+          "context_id": "/root/review_round1_c",
+          "report_hash": "c1b549a83afedda33bf7ef6a7b0c897d31519b8df3d935269e492ddf106f981f",
+          "comments_hash": "c04c1e495d9680d363056029140afcc1dff10ea3d24d9d4cbbff9d7fc4b8845d",
+          "packet_hash": "6c090507e34116c71e839d1ef9668a8270bca88f3c135a1ad731ce720356b437"
+        }
+      },
+      "frozen": true,
+      "frozen_at": "2026-09-10T08:49:59.197051+00:00"
+    },
+    "2": {
+      "content_fingerprint": "29e1a9d87b030166ac2c05e3f4e489086702468330921f84320f2803e1fa2039",
+      "packet_hash": "c1ac8c294fd7b58cff606e311a143b2146e75cc6e9f933f2033793af980e09a5",
+      "reviewers": {
+        "A": {
+          "context_id": "/root/review_round2_a",
+          "report_hash": "db5925db681baada7da6acc59812be1f1cc028853d38b24c5f8bbadf233670e3",
+          "comments_hash": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+          "packet_hash": "c1ac8c294fd7b58cff606e311a143b2146e75cc6e9f933f2033793af980e09a5"
+        },
+        "B": {
+          "context_id": "/root/review_round2_b",
+          "report_hash": "cc51515797e9fb51f0fa9e11a34e0fd8bc54b46e2db876457b1d55dc6b1e292c",
+          "comments_hash": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+          "packet_hash": "c1ac8c294fd7b58cff606e311a143b2146e75cc6e9f933f2033793af980e09a5"
+        },
+        "C": {
+          "context_id": "/root/review_round2_c",
+          "report_hash": "1a6a11dea98667cc2c5e77a70b3e85ff9ff10d32f129c642a1f6bffc62e18a9f",
+          "comments_hash": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+          "packet_hash": "c1ac8c294fd7b58cff606e311a143b2146e75cc6e9f933f2033793af980e09a5"
+        }
+      },
+      "frozen": true,
+      "frozen_at": "2026-09-10T08:52:24.654823+00:00"
+    }
+  },
+  "audit_records": {
+    "fact_lock": {
+      "status": "PASS",
+      "fingerprint": "29e1a9d87b030166ac2c05e3f4e489086702468330921f84320f2803e1fa2039",
+      "record": "polishing/fact_lock_audit.md",
+      "hash": "1642171d4b704f17ea7c871503411ec33fc2f9383c522a7dad7595064878d1a9",
+      "issue_hash": "4909b8a6e629d39940bb7603727319eee65a26328fbea007c65d0d317af8964f"
+    },
+    "claim_evidence_audit": {
+      "status": "PASS",
+      "fingerprint": "29e1a9d87b030166ac2c05e3f4e489086702468330921f84320f2803e1fa2039",
+      "record": "qa/claim_evidence_audit.md",
+      "hash": "cf6743b77e48a62013a29e117b64689ca56c11c28efb6161cbce882ddb04997d",
+      "issue_hash": "4909b8a6e629d39940bb7603727319eee65a26328fbea007c65d0d317af8964f"
+    },
+    "methods_experiment_audit": {
+      "status": "PASS",
+      "fingerprint": "29e1a9d87b030166ac2c05e3f4e489086702468330921f84320f2803e1fa2039",
+      "record": "qa/methods_experiment_audit.md",
+      "hash": "32df7309c01c48807130baceac63d56c1d5005f29c7d6c7face74d6602ecb0e7",
+      "issue_hash": "4909b8a6e629d39940bb7603727319eee65a26328fbea007c65d0d317af8964f"
+    },
+    "statistics_audit": {
+      "status": "PASS",
+      "fingerprint": "29e1a9d87b030166ac2c05e3f4e489086702468330921f84320f2803e1fa2039",
+      "record": "qa/statistics_audit.md",
+      "hash": "96392841e85c5eab82aa2d219d0c973ee3f1516863d66c09708c66050ea9be56",
+      "issue_hash": "4909b8a6e629d39940bb7603727319eee65a26328fbea007c65d0d317af8964f"
+    },
+    "citation_audit": {
+      "status": "PASS",
+      "fingerprint": "29e1a9d87b030166ac2c05e3f4e489086702468330921f84320f2803e1fa2039",
+      "record": "qa/citation_audit.md",
+      "hash": "f076df4203e6a89c5db606c62a1f38add2cc2258b283d245183ccafad13a9855",
+      "issue_hash": "4909b8a6e629d39940bb7603727319eee65a26328fbea007c65d0d317af8964f"
+    },
+    "figure_table_audit": {
+      "status": "PASS",
+      "fingerprint": "29e1a9d87b030166ac2c05e3f4e489086702468330921f84320f2803e1fa2039",
+      "record": "qa/figure_table_audit.md",
+      "hash": "facc154ff2d2e16392e5e437320d57e501d67ffd29945dc473ff6cb119c937fc",
+      "issue_hash": "4909b8a6e629d39940bb7603727319eee65a26328fbea007c65d0d317af8964f"
+    },
+    "numeric_fact_audit": {
+      "status": "PASS",
+      "fingerprint": "29e1a9d87b030166ac2c05e3f4e489086702468330921f84320f2803e1fa2039",
+      "record": "qa/numeric_fact_audit.md",
+      "hash": "8a12bf8f4a870311c907d92deef0cf59e6044a12b97cd92011c736ae4c98a7fb",
+      "issue_hash": "4909b8a6e629d39940bb7603727319eee65a26328fbea007c65d0d317af8964f"
+    },
+    "consistency_audit": {
+      "status": "PASS",
+      "fingerprint": "29e1a9d87b030166ac2c05e3f4e489086702468330921f84320f2803e1fa2039",
+      "record": "qa/consistency_audit.md",
+      "hash": "42384c0aa1888cdcc9393f0a796699648554ad0158b491e280150c7d59fb70d1",
+      "issue_hash": "4909b8a6e629d39940bb7603727319eee65a26328fbea007c65d0d317af8964f"
+    }
+  },
+  "next_actions": [
+    "Complete baseline audit"
+  ]
+}

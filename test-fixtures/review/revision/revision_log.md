@@ -1,0 +1,1 @@
+MOCK resolution. All Round1 concern IDs in triage map to the final Conclusion sentence. Replaced universal reliability with a need for actual research evidence before further conclusions. R01/data/mock.csv support only the fixed list. The valid paragraphs remain unchanged. Source compared and issue resolved without a new experiment.

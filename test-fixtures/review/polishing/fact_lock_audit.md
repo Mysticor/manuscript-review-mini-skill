@@ -1,0 +1,1 @@
+MOCK diff-aware fact audit. The one wording change retains the same subject and traceability claim. All numeric tokens and citations remain identical; CSV/facts/parameters unchanged. No causal or scope strengthening. The bounded Conclusion predates polishing and remains unchanged.

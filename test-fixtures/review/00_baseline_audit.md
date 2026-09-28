@@ -1,0 +1,1 @@
+MOCK baseline. All approved sections, Figure 1 and Table 1 with captions, bibliography and SI exist. C01/R01 and actual input CSV/analysis are supplied. No missing central source prevents review. This is a software fixture, not a scientific submission. A full scientific review is still needed.

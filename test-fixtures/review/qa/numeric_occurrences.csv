@@ -1,0 +1,2 @@
+fact_id,location,excerpt,value,unit,source_file,source_field,source_value,source_unit
+R01,reviewed_manuscript.md,The mean was 2 dimensionless units,2,dimensionless,inputs/handoff/04_results_facts.csv,value,2,dimensionless

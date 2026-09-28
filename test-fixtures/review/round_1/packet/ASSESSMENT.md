@@ -1,0 +1,1 @@
+MOCK software acceptance manuscript. No real paper, population, experimental result or journal submission. Target generic scholarly audience, no journal-specific thresholds. Assess only the supplied prose and source record; no internet research. Some input is deliberately synthetic. Report grounded concerns, not a concern quota.

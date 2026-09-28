@@ -1,0 +1,30 @@
+figure_id: null
+working_title: null
+target_section: null
+scientific_question: null
+main_claim: null
+why_figure: null
+why_table_insufficient: null
+figure_type: null
+overall_layout: null
+panel_count: null
+required_data: null
+required_photos: null
+required_model_outputs: null
+required_literature: null
+labels_annotations: null
+statistics: null
+caption_requirements: null
+reviewer_concern: null
+generation_route: null
+expected_source_files: null
+expected_outputs: null
+provenance_mode: null
+status: null
+panels:
+- label: null
+  scientific_role: null
+  exact_content: null
+  sources: null
+  axes_variables: null
+  visual_form: null
