@@ -26,6 +26,6 @@ Research Workflow Skills · 03 · Review. See the repository README for the four
 语言合格可检查后记录 NOT_NEEDED，不为完成流程改写。需要润色时只处理有问题的段落，调用 nature-polishing；前后做事实锁和语义比较，保留数字、引用和主张强度。Humanizer 仅按共享契约按需使用。
 
 ## 交付与接续
-用 qa/combined_audit.md 覆盖所有适用检查维度，不适用项说明理由；audit-all 记录当前内容和问题台账指纹。脚本不能判断科学真伪，逐项复核必须实际完成。
+用 qa/combined_audit.md 覆盖所有适用检查维度，引用按[文献审计](references/citation-audit.md)检查支持关系与覆盖，不适用项说明理由；audit-all 记录当前内容和问题台账指纹。脚本不能判断科学真伪，逐项复核必须实际完成。
 每批保存文件和根目录 resume.md（已处理问题、待办/阻塞、下一步文件和决定，通常一页以内）。长日志与完整报告保存在文件，按需读证据；不自行开新任务。
 check/finalize/package 保留数字、引用、来源、核心阻塞和 MOCK 隔离要求。交接包含 review_coverage.json，如实说明人数、轮次与润色情况，不冒充原版完整双轮审稿。止于稿件和出版交接，不编译论文PDF。
