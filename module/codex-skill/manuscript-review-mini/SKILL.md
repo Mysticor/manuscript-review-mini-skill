@@ -3,6 +3,8 @@ name: manuscript-review-mini
 description: >
   Manuscript Review Mini：两位独立审稿、统一问题台账、最小修订和按风险复审，按需润色，
   保留证据核验并交接排版。用于审稿mini、轻量论文审查与修订；不宣称等同原版六人次独立审查。
+metadata:
+  version: "1.1"
 ---
 # Manuscript Review Mini
 

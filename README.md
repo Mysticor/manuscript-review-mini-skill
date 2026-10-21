@@ -1,5 +1,7 @@
 # Manuscript Review Mini
 
+当前版本：**v1.1** · [更新记录与编号规则](CHANGELOG.md)
+
 **Research Workflow Skills · 03 · Review**
 
 对完整初稿做独立审查、问题分流、最小必要修订和风险驱动复审，输出审后稿及排版交接。
