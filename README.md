@@ -1,6 +1,6 @@
 # Manuscript Review Mini
 
-当前版本：**v1.1** · [更新记录与编号规则](CHANGELOG.md)
+当前版本：**v1.2** · [更新记录与编号规则](CHANGELOG.md)
 
 **Research Workflow Skills · 03 · Review**
 

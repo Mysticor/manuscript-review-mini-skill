@@ -8,3 +8,9 @@ legitimate movement/deletion still needs a documented explanation and source che
 Agent reads diff for causal/strength/condition drift and records fact_lock_audit.md.
 Any unapproved numerical drift blocks completion; restore that passage or make a
 scientific correction outside polishing, then create a new lock. Never auto-approve diff.
+
+Numeric equality is not semantic equality. In the same diff audit check independent
+units versus repeated measurements, simulated versus measured results, populations,
+baselines, denominators, conditions, time windows and statistical/causal scope.
+A change to any of these requires source-supported scientific review even when all
+numbers and citation keys are unchanged; the token checker cannot certify it.
