@@ -4,7 +4,7 @@ description: >
   Manuscript Review Mini：两位独立审稿、统一问题台账、最小修订和按风险复审，按需润色，
   保留证据核验并交接排版。用于审稿mini、轻量论文审查与修订；不宣称等同原版六人次独立审查。
 metadata:
-  version: "1.2"
+  version: "1.3"
 ---
 # Manuscript Review Mini
 
@@ -25,9 +25,10 @@ Research Workflow Skills · 03 · Review. See the repository README for the four
 ## 复核与语言
 修改后逐项核对意见闭合、相关内容和可能回归，通读全稿。填写[风险评估与命令](references/mini-operations.md)中的 JSON，由 assess-risk 判定是否需要全新复审。重大科学/结构变化、接受的重大意见或尚存重要分歧需独立新上下文复审；不能把重大修改标成小修以跳过。
 默认没有上述触发时不重复全新审稿，完成有证据的定点复核。需要复审时用两个新上下文（必要时加C），不带首轮意见和修订历史，冻结后再比较。复审后再改内容会使其过期。
-语言合格可检查后记录 NOT_NEEDED，不为完成流程改写。需要润色时只处理有问题的段落，调用 nature-polishing；前后按[事实锁](references/fact-lock.md)做事实与语义比较，保留数字、引用和主张强度。Humanizer 仅按共享契约按需使用。
+语言合格可检查后记录 NOT_NEEDED，不为完成流程改写。需要润色时只处理有问题的段落，调用 nature-polishing；前后按[事实锁](references/fact-lock.md)做事实与语义比较，保留数字、引用和主张强度。原语种正式稿的 Humanizer 润色仍按需使用；下述中文审阅稿必须实际使用 humanizer。
 
 ## 交付与接续
+内容终稿交付时，同时按[中文终稿审阅副本](references/chinese-author-copy.md)生成完整中文稿，实际使用 humanizer 并逐节核对与正式稿一致，供作者排版前审阅。
 用 qa/combined_audit.md 覆盖所有适用检查维度，引用按[文献审计](references/citation-audit.md)检查支持关系与覆盖，不适用项说明理由；audit-all 记录当前内容和问题台账指纹。脚本不能判断科学真伪，逐项复核必须实际完成。
 每批保存文件和根目录 resume.md（已处理问题、待办/阻塞、下一步文件和决定，通常一页以内）。长日志与完整报告保存在文件，按需读证据；不自行开新任务。
 check/finalize/package 保留数字、引用、来源、核心阻塞和 MOCK 隔离要求。交接包含 review_coverage.json，如实说明人数、轮次与润色情况，不冒充原版完整双轮审稿。止于稿件和出版交接，不编译论文PDF。

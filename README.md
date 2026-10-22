@@ -1,6 +1,6 @@
 # Manuscript Review Mini
 
-当前版本：**v1.2** · [更新记录与编号规则](CHANGELOG.md)
+当前版本：**v1.3** · [更新记录与编号规则](CHANGELOG.md)
 
 **Research Workflow Skills · 03 · Review**
 
@@ -63,3 +63,7 @@ python -B -m unittest discover -s workflow-contract/tests -p 'test_*.py'
 原创部分采用 MIT，见 LICENSE。第三方代码遵循其各自许可，见 THIRD_PARTY.md 与组件内保留的声明。
 
 配图使用 Python 后端时，另运行 `python -m pip install -r module/vendor/nature-skills/skills/nature-figure/requirements.txt`；R 后端按组件的 R 指南配置。可选学术搜索 MCP 服务使用其目录内 requirements.txt。按实际任务安装，不强制使用付费图像服务。
+
+## 中文作者审阅稿
+
+终稿同时提供完整中文审阅副本，使用另行安装的 `humanizer` Skill 调整表达并核对科学含义。依赖不可用时明确报告未完成；本仓库不捆绑 humanizer。中文副本不替换正式原语种稿或投稿包，原有科学就绪检查不认证翻译质量。详见 [交付规则](module/codex-skill/manuscript-review-mini/references/chinese-author-copy.md)。
